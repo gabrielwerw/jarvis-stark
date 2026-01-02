@@ -1,0 +1,277 @@
+{
+    "total": 7637.7,
+    "lista": [
+        {
+            "data": "2026-01-01",
+            "hora": "22:56:10",
+            "valor": 1.0
+        },
+        {
+            "data": "2026-01-01",
+            "valor": 1.0
+        },
+        {
+            "data": "2026-01-01",
+            "valor": 280.0
+        },
+        {
+            "data": "2026-01-02",
+            "valor": 280.0
+        },
+        {
+            "data": "2026-01-02",
+            "valor": 280.0
+        },
+        {
+            "data": "2026-01-02",
+            "valor": 280.0
+        },
+        {
+            "data": "2026-01-02",
+            "valor": 280.0
+        },
+        {
+            "data": "2026-01-02",
+            "valor": 280.0,
+            "id": "20260102015948"
+        },
+        {
+            "data": "2026-01-02",
+            "valor": 280.0
+        },
+        {
+            "data": "2026-01-02",
+            "valor": 1.0
+        },
+        {
+            "data": "2026-01-02",
+            "valor": 280.0
+        },
+        {
+            "data": "02/01/2026",
+            "hora": "02:33:57",
+            "valor": 280.0,
+            "auth": "O9VVI1"
+        },
+        {
+            "data": "02/01/2026",
+            "valor": 280.0,
+            "auth": "CHXZOD9971"
+        },
+        {
+            "data": "2026-01-02",
+            "valor": 280.0
+        },
+        {
+            "data": "02/01/2026",
+            "valor": 280.0,
+            "auth": "TK518XTDJ2"
+        },
+        {
+            "data": "02/01/2026",
+            "valor": 280.0,
+            "auth": "I6J36XPMEY"
+        },
+        {
+            "data": "2026-01-02",
+            "valor": 280.0
+        },
+        {
+            "data": "2026-01-02",
+            "valor": 280.0
+        },
+        {
+            "data": "2026-01-02",
+            "valor": 280.0
+        },
+        {
+            "data": "2026-01-02",
+            "valor": 280.0,
+            "tipo": "pix_automatico"
+        },
+        {
+            "data": "2026-01-02",
+            "valor": 280.0
+        },
+        {
+            "data": "2026-01-02",
+            "valor": 280.0
+        },
+        {
+            "data": "2026-01-02",
+            "valor": 1.0
+        },
+        {
+            "data": "2026-01-02",
+            "valor": 20.0,
+            "desc": "comprei r$ 20 no Paiva",
+            "metodo": "pics"
+        },
+        {
+            "data": "2026-01-02",
+            "valor": 20.0,
+            "desc": "comprei r$ 20 no Paiva",
+            "metodo": "cr\u00e9dito"
+        },
+        {
+            "data": "2026-01-02",
+            "valor": 0.0,
+            "desc": "resumo da semana",
+            "metodo": "resumo da semana",
+            "categoria": "Geral"
+        },
+        {
+            "data": "2026-01-02",
+            "valor": 280.0,
+            "categoria": "Pix Autom\u00e1tico"
+        },
+        {
+            "data": "2026-01-02",
+            "valor": 280.0,
+            "cat": "Pix App"
+        },
+        {
+            "data": "2026-01-02",
+            "valor": 280.0
+        },
+        {
+            "data": "2026-01-02",
+            "valor": 20.0,
+            "desc": "r$ 20 no paiva",
+            "metodo": "cr\u00e9dito",
+            "categoria": "Alimenta\u00e7\u00e3o"
+        },
+        {
+            "data": "2026-01-02",
+            "valor": 50.0,
+            "desc": "r$ 50 no palato",
+            "metodo": "pics",
+            "categoria": "Geral"
+        },
+        {
+            "data": "2026-01-02",
+            "valor": 280.0
+        },
+        {
+            "data": "2026-01-02",
+            "valor": 0.7,
+            "desc": "IMPORT: Comprovante Digital",
+            "metodo": "DOCUMENTO",
+            "categoria": "Geral"
+        },
+        {
+            "data": "2026-01-02",
+            "valor": 20.0,
+            "desc": "r$ 20 no supermercado",
+            "metodo": "cr\u00e9dito cr\u00e9dito",
+            "categoria": "Alimenta\u00e7\u00e3o"
+        },
+        {
+            "data": "2026-01-02",
+            "valor": 20.0,
+            "desc": "comprei r$ 20 no supermercado o que voc\u00ea comprou gabriel comprei r$ 20 no supermercado comprei r$ 20 no supermercado",
+            "metodo": "cr\u00e9dito cr\u00e9dito O que voc\u00ea comprou",
+            "categoria": "Alimenta\u00e7\u00e3o"
+        },
+        {
+            "data": "2026-01-02",
+            "valor": 10.0,
+            "desc": "e r$ 10 o supermercado",
+            "metodo": "registrado em alimenta\u00e7\u00e3o Gabriel",
+            "categoria": "Alimenta\u00e7\u00e3o"
+        },
+        {
+            "data": "2026-01-02",
+            "valor": 280.0
+        },
+        {
+            "data": "2026-01-02",
+            "valor": 250.0,
+            "desc": "lei 250",
+            "metodo": "cr\u00e9dito O que voc\u00ea comprou o Gabriel comprei r$ 20 no supermercado O que voc\u00ea comprou comprei r$ 20 no supermercado",
+            "categoria": "Geral"
+        },
+        {
+            "data": "2026-01-02",
+            "valor": 20.0,
+            "desc": "r$ 20 no supermercado",
+            "metodo": "fixo ou cr\u00e9dito cr\u00e9dito",
+            "categoria": "Alimenta\u00e7\u00e3o"
+        },
+        {
+            "data": "2026-01-02",
+            "valor": 20.0,
+            "desc": "play r$ 20 no supermercado comprei r$ 20 no supermercado",
+            "metodo": "cr\u00e9dito",
+            "categoria": "Alimenta\u00e7\u00e3o"
+        },
+        {
+            "data": "2026-01-02",
+            "valor": 280.0
+        },
+        {
+            "data": "2026-01-02",
+            "valor": 2.0
+        },
+        {
+            "data": "2026-01-02",
+            "valor": 2.0
+        },
+        {
+            "data": "2026-01-02",
+            "valor": 0.0,
+            "desc": "reais no shopping",
+            "metodo": "cr\u00e9dito",
+            "categoria": "Geral"
+        },
+        {
+            "data": "2026-01-02",
+            "valor": 50.0,
+            "desc": "play r$ 50",
+            "metodo": "comprei r$ 50 no shopping cr\u00e9dito",
+            "categoria": "Geral"
+        },
+        {
+            "data": "2026-01-02",
+            "valor": 2.0,
+            "desc": "Pagamento PIX",
+            "metodo": "PIX",
+            "categoria": "Financeiro"
+        },
+        {
+            "data": "2026-01-02",
+            "valor": 20.0,
+            "desc": "play r$ 20",
+            "metodo": "Mix O que voc\u00ea comprou Gabriel comprei r$ 50 no supermercado comprei r$ 50",
+            "categoria": "Geral"
+        },
+        {
+            "data": "2026-01-02",
+            "valor": 50.0,
+            "desc": "r$ 50 no supermercado comprei r$ 50",
+            "metodo": "cr\u00e9dito",
+            "categoria": "Alimenta\u00e7\u00e3o"
+        },
+        {
+            "data": "2026-01-02",
+            "valor": 35.0,
+            "desc": "35",
+            "metodo": "pics pics O que voc\u00ea comprou comprei r$ 300 na Americanas",
+            "categoria": "Geral"
+        },
+        {
+            "data": "2026-01-02",
+            "valor": 2.0,
+            "desc": "Pagamento PIX",
+            "metodo": "PIX",
+            "categoria": "Financeiro"
+        },
+        {
+            "data": "2026-01-02",
+            "valor": 20.0,
+            "desc": "comprei r$ 20 no supermercado",
+            "metodo": "cr\u00e9dito",
+            "categoria": "Alimenta\u00e7\u00e3o"
+        }
+    ]
+}
